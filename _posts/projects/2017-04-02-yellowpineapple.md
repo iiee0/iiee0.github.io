@@ -7,10 +7,10 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Yellow Pineapple"
-  type: "Jekyll"
+  title: "Heart keep going 2021"
+  type: "202101"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/yellowpineapple/logo.png"
+  logo: "/assets/images/projects/iiee/6.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/yellowpineapple/devices.jpg"
+    url: "/assets/images/projects/iiee/6.png"
     alt: "Yellow Pineapple website on tablet, mobile and desktop"
   - image:
     url: "/assets/images/projects/yellowpineapple/desktop.jpg"

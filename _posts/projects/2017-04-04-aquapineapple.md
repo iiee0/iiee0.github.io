@@ -7,10 +7,10 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Aqua Pineapple"
-  type: "Jekyll"
+  title: "Jelous"
+  type: "202101"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/aquapineapple/logo.png"
+  logo: "/assets/images/projects/iiee/4.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/aquapineapple/devices.jpg"
+    url: "/assets/images/projects/iiee/4.png"
     alt: "Aqua Pineapple website on tablet, mobile and desktop"
   - image:
     url: "/assets/images/projects/aquapineapple/desktop.jpg"

@@ -7,10 +7,10 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
+  title: "Irregular"
+  type: "202101"
   url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/iiee/1.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
+    url: "/assets/images/projects/iiee/1.png"
     alt: "Red Pineapple website on tablet, mobile and desktop"
   - image:
     url: "/assets/images/projects/redpineapple/desktop.jpg"
